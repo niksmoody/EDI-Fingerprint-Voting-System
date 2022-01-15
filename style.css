@@ -1,0 +1,16 @@
+body{ background: powderblue;
+    margin: 0;
+   padding: 0;
+   }
+   .container{
+       width: 1000px;
+       background: skyblue;
+       margin: 0 auto;
+       padding: 10px;
+   }
+    img{ border-radius:140px; border: 4px solid skyblue; padding: 5px;}
+    img:hover{background: rgb(35, 219, 35);}
+   
+    input{
+        margin-left: 250px;
+    }
